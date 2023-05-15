@@ -7,10 +7,14 @@ After loading Delimited Text Layer (like CSV files) in QGIS an user cannot edit 
 <img src="https://github.com/g2r4i6e8/geocsv/blob/main/docs/Problem.png?raw=true" width="800" />
 
 ## Installation
-1. Download this repo as a ZIP-file ([instruction](https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/#:~:text=To%20do%20this%2C%20go%20to,likely%20in%20your%20Downloads%20folder))
-2. Open QGIS. Go to Plugins->Manage and Install Plugins...->Install from ZIP
-3. Select the downloaded ZIP-file and click Install Plugin.
-4. That's it. You are awesome!
+~~1. Download this repo as a ZIP-file ([instruction](https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/#:~:text=To%20do%20this%2C%20go%20to,likely%20in%20your%20Downloads%20folder))~~
+~~2. Open QGIS. Go to Plugins->Manage and Install Plugins...->Install from ZIP~~
+~~3. Select the downloaded ZIP-file and click Install Plugin.~~
+~~4. That's it. You are awesome!~~
+
+GeoCSV is available in [QGIS Python Plugins Repository](https://plugins.qgis.org/plugins/geocsv-main/) now!
+
+So, just go to the 'Plugins -> Install Plugins...' in QGIS and install it in a few seconds.
 
 ## Usage
 
